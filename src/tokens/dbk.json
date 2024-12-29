@@ -46,6 +46,17 @@
     {
         "chainId": 20240603,
         "address": "0x492eb301A898CeDB6ca0CcffAe645b22D2e582de",
+        "name": "GooDog82de",
+        "symbol": "GDT82de",
+        "decimals": 18,
+        "tags": [
+            "GooDog"
+        ],
+        "logoURI": "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg"
+    },
+    {
+        "chainId": 20240603,
+        "address": "0xBDa7468fD1916C6e4Ae4b0e5fB3ea26993a388D5",
         "name": "GooDog",
         "symbol": "GDT",
         "decimals": 18,
