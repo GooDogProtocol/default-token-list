@@ -1,68 +1,20 @@
 [
     {
         "chainId": 20240603,
-        "address": "0x084700ad44c20b8cd497f6458EAc04CDC3568021",
-        "name": "GDB Token",
-        "symbol": "GDB",
-        "decimals": 18,
-        "tags": [
-            "GooDog"
-        ],
-        "logoURI": "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg"
-    },
-    {
-        "chainId": 20240603,
-        "address": "0xa432C0696259AF99990531f4E69D09e37704700c",
-        "name": "GDA Token",
-        "symbol": "GDA",
-        "decimals": 18,
-        "tags": [
-            "GooDog"
-        ],
-        "logoURI": "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg"
-    },
-    {
-        "chainId": 20240603,
-        "address": "0x4d08cAd7A5C6cA925De4886976e18F2Aea6Ec175",
+        "address": "0xF298158CAdb14B8B549c8135ebFDCa629A59526a",
         "name": "Wrapped Ether",
         "symbol": "WETH",
         "decimals": 18,
-        "tags": [
-            "GooDog"
-        ],
+        "tags": ["GooDog"],
         "logoURI": "https://gist.githubusercontent.com/GooDogFun/683fc33198e25a34ae4a4bb2949af837/raw/8ddc656dcabcf1b1bc732fbc1545f755847d941e/WETH9.svg"
-    },
-    {
+      },
+      {
         "chainId": 20240603,
-        "address": "0x3FBF6f84F819a2fb2d0bf3940d81bd224aD95666",
-        "name": "GooDog5666",
-        "symbol": "GDT5666",
-        "decimals": 18,
-        "tags": [
-            "GooDog"
-        ],
-        "logoURI": "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg"
-    },
-    {
-        "chainId": 20240603,
-        "address": "0x492eb301A898CeDB6ca0CcffAe645b22D2e582de",
-        "name": "GooDog82de",
-        "symbol": "GDT82de",
-        "decimals": 18,
-        "tags": [
-            "GooDog"
-        ],
-        "logoURI": "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg"
-    },
-    {
-        "chainId": 20240603,
-        "address": "0xBDa7468fD1916C6e4Ae4b0e5fB3ea26993a388D5",
+        "address": "0xABCCEfB00528C9c792aC7c46997f0f6Ee5DCDDDD",
         "name": "GooDog",
-        "symbol": "GDT",
+        "symbol": "GD",
         "decimals": 18,
-        "tags": [
-            "GooDog"
-        ],
+        "tags": ["GooDog"],
         "logoURI": "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg"
-    }
+      }
 ]
