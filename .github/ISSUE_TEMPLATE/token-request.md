@@ -6,7 +6,7 @@ labels: token request
 assignees: ''
 ---
 
-- [ ] I understand that token listing is not required to use the Uniswap Interface with a token.
+- [ ] I understand that token listing is not required to use GooDEX with a token.
 - [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the GooDog default token list.
 - [ ] I will not ping the Discord about this listing request.
 

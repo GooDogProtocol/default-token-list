@@ -3,7 +3,7 @@
 [![Tests](https://github.com/uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/GooDogProtocol/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@uniswap/default-token-list)](https://www.npmjs.com/package/@goodog/default-token-list)
 
-This NPM module and GitHub repo contains the default token list used in the GooDog DEX.
+This NPM module and GitHub repo contains the default token list used in the GooDEX.
 
 ## Adding a token
 
