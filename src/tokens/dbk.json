@@ -16,5 +16,14 @@
         "decimals": 18,
         "tags": ["GooDog"],
         "logoURI": "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg"
+      },
+      {
+        "chainId": 20240603,
+        "address": "0xFf75AcDf2f5C0DB0daA5cfe62b95B2bE344f7361",
+        "name": "Pawtherium",
+        "symbol": "PAW",
+        "decimals": 18,
+        "tags": ["GPAD"],
+        "logoURI": "https://ipfs.io/ipfs/QmUcj6hcTSgRQdvJTeM9cs1L5mXt1UuwcGQ14fGqTWf1Gb"
       }
 ]
