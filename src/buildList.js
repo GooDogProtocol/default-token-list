@@ -19,7 +19,7 @@ module.exports = function buildList() {
     tags: {
         "GooDog": {
             "name": "GooDog",
-            "description": "Built for Good, Made for Fun",
+            "description": "Built for Good Made for Fun",
         },
         "GPAD": {
             "name": "GPAD",
