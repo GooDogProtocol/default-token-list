@@ -25,5 +25,14 @@
         "decimals": 18,
         "tags": ["GPAD"],
         "logoURI": "https://ipfs.io/ipfs/QmUcj6hcTSgRQdvJTeM9cs1L5mXt1UuwcGQ14fGqTWf1Gb"
+      },
+      {
+        "chainId": 20240603,
+        "address": "0xCdDDE997159Bd1bdE7C08B325c7007af9e848278",
+        "name": "MINE on DBK",
+        "symbol": "MINE",
+        "decimals": 18,
+        "tags": ["COMMUNITY"],
+        "logoURI": "https://ipfs.io/ipfs/QmYWcsYQBxd2gUvkA9RVzv2nioCsyJy46XeRRPfrqDjvxz"
       }
 ]

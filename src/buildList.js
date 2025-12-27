@@ -24,7 +24,11 @@ module.exports = function buildList() {
         "GPAD": {
             "name": "GPAD",
             "description": "GPAD Token Activated by Community",
-        }
+        },
+        "COMMUNITY": {
+            "name": "Community",
+            "description": "Token Launched by Community",
+        },
     },
     logoURI: "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg",
     keywords: ["GooDog", "Good OG", "Community", "GooDog Protocol"],
