@@ -17,7 +17,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {
-        "GooDog": {
+        "GOODOG": {
             "name": "GooDog",
             "description": "Built for Good Made for Fun",
         },
