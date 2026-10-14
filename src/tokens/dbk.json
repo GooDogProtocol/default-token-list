@@ -1,38 +1,42 @@
 [
-    {
-        "chainId": 20240603,
-        "address": "0xF298158CAdb14B8B549c8135ebFDCa629A59526a",
-        "name": "Wrapped Ether",
-        "symbol": "WETH",
-        "decimals": 18,
-        "tags": [],
-        "logoURI": "https://gist.githubusercontent.com/GooDogFun/683fc33198e25a34ae4a4bb2949af837/raw/8ddc656dcabcf1b1bc732fbc1545f755847d941e/WETH9.svg"
-      },
-      {
-        "chainId": 20240603,
-        "address": "0xABCCEfB00528C9c792aC7c46997f0f6Ee5DCDDDD",
-        "name": "GooDog",
-        "symbol": "GD",
-        "decimals": 18,
-        "tags": [],
-        "logoURI": "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg"
-      },
-      {
-        "chainId": 20240603,
-        "address": "0xFf75AcDf2f5C0DB0daA5cfe62b95B2bE344f7361",
-        "name": "Pawtherium",
-        "symbol": "PAW",
-        "decimals": 18,
-        "tags": ["GPAD"],
-        "logoURI": "https://ipfs.filebase.io/ipfs/bafybeignauknk3bolze6yirwc7g6lwcpu5czeeivn77pdvampd2uxjxyfy"
-      },
-      {
-        "chainId": 20240603,
-        "address": "0x62CDe9Aa2159461F094e3eaCBa10F7C45C0A6B4f",
-        "name": "MINE on DBK",
-        "symbol": "MINE",
-        "decimals": 18,
-        "tags": ["COMMUNITY"],
-        "logoURI": "https://ipfs.io/ipfs/QmYWcsYQBxd2gUvkA9RVzv2nioCsyJy46XeRRPfrqDjvxz"
-      }
+  {
+    "chainId": 20240603,
+    "address": "0xF298158CAdb14B8B549c8135ebFDCa629A59526a",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "tags": [],
+    "logoURI": "https://gist.githubusercontent.com/GooDogFun/683fc33198e25a34ae4a4bb2949af837/raw/8ddc656dcabcf1b1bc732fbc1545f755847d941e/WETH9.svg"
+  },
+  {
+    "chainId": 20240603,
+    "address": "0xABCCEfB00528C9c792aC7c46997f0f6Ee5DCDDDD",
+    "name": "GooDog",
+    "symbol": "GD",
+    "decimals": 18,
+    "tags": [],
+    "logoURI": "https://gist.githubusercontent.com/GooDogFun/e9d02c4a02d24d8642ac813fc14ff6fc/raw/6b0e7ad50c3e9c3c0be149cfa0e3752c9dc2b065/GD.svg"
+  },
+  {
+    "chainId": 20240603,
+    "address": "0xFf75AcDf2f5C0DB0daA5cfe62b95B2bE344f7361",
+    "name": "Pawtherium",
+    "symbol": "PAW",
+    "decimals": 18,
+    "tags": [
+      "GPAD"
+    ],
+    "logoURI": "https://ipfs.filebase.io/ipfs/bafybeignauknk3bolze6yirwc7g6lwcpu5czeeivn77pdvampd2uxjxyfy"
+  },
+  {
+    "chainId": 20240603,
+    "address": "0x62CDe9Aa2159461F094e3eaCBa10F7C45C0A6B4f",
+    "name": "MINE on DBK",
+    "symbol": "MINE",
+    "decimals": 18,
+    "tags": [
+      "COMMUNITY"
+    ],
+    "logoURI": "https://ipfs.filebase.io/ipfs/QmYWcsYQBxd2gUvkA9RVzv2nioCsyJy46XeRRPfrqDjvxz"
+  }
 ]
